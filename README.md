@@ -12,8 +12,8 @@
 
 ## Credits
 - Modelli 3D: myself :)
-- Animations: [https://www.mixamo.com](https://www.mixamo.com);
-- Musics: [Youtube Studio](https://studio.youtube.com/channel/UCJEaianBbU2AYKXNfuXYQGQ/music);
+- Animations: https://www.mixamo.com;
+- Musics: https://studio.youtube.com/channel/UCJEaianBbU2AYKXNfuXYQGQ/music;
 - SFX: https://freesound.org;
 - Icons: https://icons8.com;
 - Fonts: https://www.dafont.com/it.
